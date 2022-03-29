@@ -1,0 +1,21 @@
+{
+  "name": "my_server_app",
+  "version": "1.0.0",
+  "description": "creation de serveur web avec express et ejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Abakrov",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "14.17"
+  }
+}
